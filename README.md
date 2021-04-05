@@ -12,6 +12,8 @@ https://assets.kpmg/content/dam/kpmg/be/pdf/2018/07/ADV-depliant-blockchain-2-uk
 
 > Reorienting Project Management from top-down planning to distributed peer facilitation and empowerment models.
 
+https://groundswell.org.uk/what-we-do/peer-research/
+
 > Integrating existing best practice open-source community guidelines into all Catalyst Projects. https://opensource.guide/
 
 
