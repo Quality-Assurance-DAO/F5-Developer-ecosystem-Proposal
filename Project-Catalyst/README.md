@@ -1,6 +1,5 @@
 # Project-Catalyst README
 
-
 # Notes
 
 ## Project Catalyst weekly town hall and Q&A - 07/04/21
@@ -16,7 +15,6 @@ Time well spent - Proposers
 **Remember**: Every six weeks a new funding round begins
 
 Don’t waste people’s time if you are not serious.
-
 
 | Stage | |
 |--- | ---|
@@ -35,8 +33,6 @@ Don’t waste people’s time if you are not serious.
 | **Fund5 Governance phase** | *Voter Registration* |
 | May 18th | |
 
-
-
 # Return On Intention is the main thing for you to address
 
 Was good developer experience and successful Dapps created thanks to our efforts?
@@ -47,18 +43,11 @@ Was good developer experience and successful Dapps created thanks to our efforts
 * Reduce wait time of unanswered communications with developers to 24 hours.
 * A sense of community and conversations. Having people around to talk with.
 
-
- 
-
-
-# Syntheic approach reaching out to other proposers
-
-
+# Synthetic approach reaching out to other proposers
 
 ### Slides
 
 https://docs.google.com/presentation/d/1UsdP7vwMpKWowgjA4ppqqqRb_rm0zf9ng49Z3Xbtl80/edit#slide=id.gb756fa1b15_0_0
-
 
 # The proposer, referrer and the implementer
 
@@ -69,7 +58,6 @@ The Proposer is the “CEO” of the proposal.
 * A proposal can have several co-proposers
 
 * Referrers get rewarded $40K in ada for referring a new proposer to Catalyst
-
 
 # Review criteria
 
