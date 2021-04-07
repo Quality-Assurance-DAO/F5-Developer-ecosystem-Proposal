@@ -19,6 +19,40 @@ Don’t waste people’s time if you are not serious.
 
 
 
+| Insight sharing | Share perspective|
+|---|---|
+| Mar 31st | Apr 7th|
+| Proposal draft submission | Submit ideas/Provide structured feedback|
+| Apr 7th | Apr 14th |
+| Proposal Refinement |Provide structured feedback |
+
+
+
+
+Apr 14th
+Apr 21st
+Proposal Final submission
+Idea -> proposal
+Apr 21st
+Apr 28th
+Proposal Review
+Community advisors review proposals
+Apr 28th
+May 5th
+Assess QA
+vCA Reviews of assessments
+May 5th
+May 12th
+Fund5 Governance phase
+Voter Registration
+May 18th
+ 
+
+
+
+
+
+
 ### Slides
 
 https://docs.google.com/presentation/d/1UsdP7vwMpKWowgjA4ppqqqRb_rm0zf9ng49Z3Xbtl80/edit#slide=id.gb756fa1b15_0_0
