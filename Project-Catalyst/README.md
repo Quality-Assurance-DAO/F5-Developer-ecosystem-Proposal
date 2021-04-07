@@ -18,9 +18,9 @@ Time well spent - Proposers
 Don’t waste people’s time if you are not serious.
 
 
-
+| Stage | |
+|--- | ---|
 | Insight sharing | Share perspective|
-|---|---|
 | Mar 31st | Apr 7th|
 | Proposal draft submission | Submit ideas/Provide structured feedback|
 | Apr 7th | Apr 14th |
