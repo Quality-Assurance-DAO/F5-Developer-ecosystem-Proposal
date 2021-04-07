@@ -34,6 +34,20 @@ Don’t waste people’s time if you are not serious.
 | May 5th | May 12th |
 | **Fund5 Governance phase** | *Voter Registration* |
 | May 18th | |
+
+
+
+# Return On Intention is the main thing for you to address
+
+Was good developer experience and successful Dapps created thanks to our efforts?
+
+* Filling in gaps defined in the exploration stage. 
+* Number of developers actively building on top of Cardano
+* Number of repos on Github using the tooling. (Month over month increase)
+* Reduce wait time of unanswered communications with developers to 24 hours.
+* A sense of community and conversations. Having people around to talk with.
+
+
  
 
 
