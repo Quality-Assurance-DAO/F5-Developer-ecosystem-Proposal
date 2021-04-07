@@ -20,19 +20,19 @@ Don’t waste people’s time if you are not serious.
 
 | Stage | |
 |--- | ---|
-| Insight sharing | Share perspective|
+| **Insight sharing** | Share perspective|
 | Mar 31st | Apr 7th|
-| Proposal draft submission | Submit ideas/Provide structured feedback|
+| **Proposal draft submission** | Submit ideas/Provide structured feedback|
 | Apr 7th | Apr 14th |
-| Proposal Refinement |Provide structured feedback |
+| **Proposal Refinement** |Provide structured feedback |
 | Apr 14th | Apr 21st |
-| Proposal Final submission | Idea -> proposal |
+| **Proposal Final submission** | Idea -> proposal |
 | Apr 21st | Apr 28th |
-| Proposal Review | Community advisors review proposals |
+| **Proposal Review** | Community advisors review proposals |
 | Apr 28th | May 5th |
-| Assess QA | vCA Reviews of assessments |
+| **Assess QA** | vCA Reviews of assessments |
 | May 5th | May 12th |
-| Fund5 Governance phase | Voter Registration |
+| **Fund5 Governance phase** | Voter Registration |
 | May 18th | |
  
 
