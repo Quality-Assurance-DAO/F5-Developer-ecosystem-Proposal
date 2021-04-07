@@ -44,3 +44,16 @@ Don’t waste people’s time if you are not serious.
 ### Slides
 
 https://docs.google.com/presentation/d/1UsdP7vwMpKWowgjA4ppqqqRb_rm0zf9ng49Z3Xbtl80/edit#slide=id.gb756fa1b15_0_0
+
+
+# The proposer, referrer and the implementer
+
+The Proposer is the “CEO” of the proposal.
+
+* Implementers are contractors/partners working with the proposer to implement the Proposal.
+
+* A proposal can have several co-proposers
+
+* Referrers get rewarded $40K in ada for referring a new proposer to Catalyst
+
+
