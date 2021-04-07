@@ -75,17 +75,17 @@ The Proposer is the “CEO” of the proposal.
 
 How much do you agree with each of these statements regarding the proposal:
 
-Impact: This proposal effectively addresses the challenge
+**Impact**: This proposal effectively addresses the challenge
 
-Feasibility: Given the proposing team’s experience and plans, it is highly likely this proposal will be implemented successfully
+**Feasibility**: Given the proposing team’s experience and plans, it is highly likely this proposal will be implemented successfully
 
-Auditability: This proposal provided me with sufficient information to assess how feasible it is and how effectively it addresses the challenge.
+**Auditability**: This proposal provided me with sufficient information to assess how feasible it is and how effectively it addresses the challenge.
 
-(1) Strongly disagree
-(2) Disagree
-(3) Neither agree nor disagree
-(4) Agree
-(5) Strongly agree
+* (1) Strongly disagree
+* (2) Disagree
+* (3) Neither agree nor disagree
+* (4) Agree
+* (5) Strongly agree
 
 
 
