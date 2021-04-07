@@ -25,31 +25,19 @@ Don’t waste people’s time if you are not serious.
 | Proposal draft submission | Submit ideas/Provide structured feedback|
 | Apr 7th | Apr 14th |
 | Proposal Refinement |Provide structured feedback |
-
-
-
-
-Apr 14th
-Apr 21st
-Proposal Final submission
-Idea -> proposal
-Apr 21st
-Apr 28th
-Proposal Review
-Community advisors review proposals
-Apr 28th
-May 5th
-Assess QA
-vCA Reviews of assessments
-May 5th
-May 12th
-Fund5 Governance phase
-Voter Registration
-May 18th
+| Apr 14th | Apr 21st |
+| Proposal Final submission | Idea -> proposal |
+| Apr 21st | Apr 28th |
+| Proposal Review | Community advisors review proposals |
+| Apr 28th | May 5th |
+| Assess QA | vCA Reviews of assessments |
+| May 5th | May 12th |
+| Fund5 Governance phase | Voter Registration |
+| May 18th | |
  
 
 
-
+# Syntheic approach reaching out to other proposers
 
 
 
