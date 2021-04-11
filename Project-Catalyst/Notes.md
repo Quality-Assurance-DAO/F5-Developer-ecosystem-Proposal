@@ -1,5 +1,3 @@
-# notes
-
 # Notes
 
 ## Project Catalyst weekly town hall and Q&A - 07/04/21
