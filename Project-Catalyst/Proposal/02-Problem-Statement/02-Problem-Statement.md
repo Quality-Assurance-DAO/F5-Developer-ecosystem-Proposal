@@ -3,10 +3,11 @@
 ## Desired outcome : 
 > This paints a picture of the ideal set of circumstances once your solution is accepted.
 
-1. An open-source, generic, Quality Assurance organisation
-1. Community recognition and adoption of open-source
-1. Community recognition and adoption of the distributed, autonomous organization of Quality Assurance.
-1. Commence Quality Assurance assessments from the outset, including the proposal process itself.
+1. An open-source, generic, Quality Assurance organisation.
+1. Generic to all Catalyst Projects and Platforms and the wider community.
+3. Community recognition and adoption of open-source.
+4. Community recognition and adoption of the distributed, autonomous organization of Quality Assurance.
+5. Commence Quality Assurance assessments from the outset, including the proposal process itself.
 
 ## Blocking problem: 
 > A concise explanation of the problem preventing this set of circumstances from occurring.
