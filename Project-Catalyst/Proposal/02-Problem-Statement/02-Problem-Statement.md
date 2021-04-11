@@ -5,18 +5,22 @@
 
 1. An open-source organisation
 1. Community recognition and adoption of open-source
-1. Community recognition and adoption of uniting open-source with distributed, autonomous organization.
-1. Commence Quality Assurance Assessments from the outset (the proposal stage).
+1. Community recognition and adoption of the distributed, autonomous organization of Quality Assurance.
+1. Commence Quality Assurance assessments from the outset, including the proposal process itself.
 
 ## Blocking problem: 
 > A concise explanation of the problem preventing this set of circumstances from occurring.
 
-
-
+1. Instiutional resistance to open-source
+1. Ideascale's use of propietary platforms
 
 ## Costs of the problem: 
 > A summation of both the opportunity and financial costs of the problem to key stakeholders. This helps voters assess how much impact the problem has.
 
+1. The cost of propietary platforms
+1. The cost of contracted Quality Assurance and Project Management Resources
+
 ## Evidence:
 > Support for your position laid out in a detailed plan.
 
+1. Evidence is requested and sought from Project Catalyst on the cost of it's use of propietary (non open-source) platforms and contracted Quality Assurance and Project Management Resources to date and going forward.
