@@ -35,25 +35,23 @@ Here’s an example:
 
 **Desired Outcome**
 
-We want to make it affordable to transfer money to workers living in the Philippines. 
+> We want to make it affordable to transfer money to workers living in the Philippines. 
 
 **Blocking problem**
 
-11% of the population of the Philippines lose money on transaction fees.
+> 11% of the population of the Philippines lose money on transaction fees.
 
 **Costs of the problem**
 
-Around $1 billion is paid in transfer fees annually.
+> Around $1 billion is paid in transfer fees annually.
 
 **Evidence**
 
-Link (s) to data which proves this.
-
+> Link (s) to data which proves this.
 
 Here’s the complete problem statement which condenses the information above:
 
-“Money transfer to Philippines workers should be affordable. However, 11% of the population are losing 1B$ in transaction fees per year. Research links [1],[2]“
-
+> “Money transfer to Philippines workers should be affordable. However, 11% of the population are losing 1B$ in transaction fees per year. Research links [1],[2]“
 
 ## In conclusion
 
