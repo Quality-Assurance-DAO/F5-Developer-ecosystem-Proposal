@@ -6,12 +6,19 @@
 
 ## Create a GitHub Organization as a focus for the distributed, autonomous organization (DAO) of Quality Assurance in Catalyst Projects.
 
+### Insight Sharing - Complete
+
+Insight sharing - Expired on 07/Apr/21 
+
+### Submit proposals - In Progress
+
+Submit proposals - Expires on 14/Apr/21 
+
 ## To participate :
 
 * Submit issues
 * Fork this repository
 * Submit Pull Requests
-
 
 ### [Projects](https://github.com/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal/projects) 
 
