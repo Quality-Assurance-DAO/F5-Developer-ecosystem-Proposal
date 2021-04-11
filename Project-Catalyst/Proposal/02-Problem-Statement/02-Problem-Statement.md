@@ -24,4 +24,4 @@
 ## Evidence:
 > Support for your position laid out in a detailed plan.
 
-1. Evidence is requested and sought from Project Catalyst on the cost of it's use of propietary (non open-source) platforms and contracted Quality Assurance and Project Management Resources to date and going forward.
+1. Evidence is sought from Project Catalyst on the cost of it's use of propietary (non open-source) platforms and contracted Quality Assurance and Project Management Resources to date and going forward.
