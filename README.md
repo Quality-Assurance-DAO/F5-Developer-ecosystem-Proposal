@@ -12,7 +12,7 @@
 
 ### Submit proposals - In Progress
 
-Submit proposals - Expires on 14/Apr/21 
+[Submit proposals](https://github.com/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal/tree/main/Project-Catalyst/Proposal) - Expires on 14/Apr/21 
 
 ## To participate :
 
