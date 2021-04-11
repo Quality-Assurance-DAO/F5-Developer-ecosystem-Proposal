@@ -8,7 +8,7 @@
 
 ### Insight Sharing - Complete
 
-Insight sharing - Expired on 07/Apr/21 
+[Insight sharing](https://github.com/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal/tree/main/Project-Catalyst/Insight-Sharing) - Expired on 07/Apr/21 
 
 ### Submit proposals - In Progress
 
