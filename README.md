@@ -1,5 +1,7 @@
-[![GitHub issues](https://img.shields.io/github/issues/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal?style=flat-square)](https://github.com/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal/issues)
+[![GitHub open issues](https://img.shields.io/github/issues/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal?style=flat-square)](https://github.com/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal/issues)
 [![GitHub milestones](https://img.shields.io/github/milestones/open/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal?style=flat-square)](https://github.com/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal/milestones)
+[![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal?style=flat-square)](https://github.com/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal/issues?q=is%3Aissue+is%3Aclosed)
+
 
 ## Create a GitHub Organization as a focus for the distributed, autonomous organization (DAO) of Quality Assurance in Catalyst Projects.
 
