@@ -2,7 +2,7 @@
 
 Trust in central authority blocks free inquiry.
 
-Closed sources inhibits innovation.
+Closed sources inhibit innovation.
 
 Duplication of standards wastes resources.
 
