@@ -4,5 +4,5 @@ Distribute Trust among peers & facilitate co-operation.
 
 Apply open-source methods.
 
-Adapt maturity models to distributed organization.
+Encourage adoption of maturity standards in distributed organization.
 
