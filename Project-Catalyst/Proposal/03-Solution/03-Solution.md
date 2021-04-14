@@ -1,8 +1,9 @@
 # 03-Solution (140 Characters)
 
-Distribute Trust among peers & facilitate co-operation.
+Distribute Trust & facilitate co-operation.
 
-Apply open-source methods.
+Apply open-source methods to Cardano.
 
-Encourage adoption of maturity standards in DAOs.
+Adopt maturity standards in distributed organizations.
+
 
