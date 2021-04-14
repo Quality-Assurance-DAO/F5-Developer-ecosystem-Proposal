@@ -1,3 +1,8 @@
-# 03-Solution
+# 03-Solution (140 Characters)
 
-In Draft
+Distribute Trust among peers & facilitate co-operation.
+
+Apply open-source methods.
+
+Adapt maturity models to distributed organization.
+
