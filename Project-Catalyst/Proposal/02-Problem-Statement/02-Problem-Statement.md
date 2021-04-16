@@ -1,6 +1,6 @@
 # 02-Problem-Statement (140 char. limit)
 
-Trust in central authority blocks free inquiry.
+Trust in arbitrary authority blocks free inquiry.
 
 Closed sources inhibit innovation.
 
