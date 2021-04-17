@@ -2,7 +2,7 @@
 
 # Funding
 
-**Estimated cost :** 2 ADA to mint an ADA Non Fungible Token that records the support of Project Catalyst for QA-DAO
+**Estimated cost :** 2 ADA to mint an ADA Non Fungible Token that records the support of Project Catalyst for QA-DAO. Set to $5 to cover currency value changes.
 
 # 1.1 DAO-Open-Source
 
