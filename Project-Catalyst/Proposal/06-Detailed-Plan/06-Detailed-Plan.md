@@ -9,6 +9,8 @@
 A repository applying existing best practice open-source community standards and methods to all Catalyst Projects.
 The QA-DAO project has commenced with a GitHub organization. The owner is the “CEO” of the GitHub Organization. Our members are open-source partners working with the owner to implement the Project and our collaborators are the wider open-source community.
 
+**Token Rewards** - A process outlining a means to reward community contributions has been drafted for NFT-DAO and released under a Creative Common License (https://github.com/Quality-Assurance-DAO/DAO-Open-Source/blob/main/Documents/Tokens/Keep-It-Simple.md)
+
 # 1.2 QA Assessment of Catalyst Funding Process – Open Source
 
 An assessment of to what degree the Catalyst Funding Process is open source.
