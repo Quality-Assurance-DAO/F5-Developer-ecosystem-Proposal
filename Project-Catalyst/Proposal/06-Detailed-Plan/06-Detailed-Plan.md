@@ -1,5 +1,9 @@
 # 06-Detailed-Plan
 
+# Funding
+
+**Estimated cost :** 2 ADA to mint an ADA Non Fungible Token that records the support of Project Catalyst for QA-DAO
+
 # 1.1 DAO-Open-Source
 
 A repository applying existing best practice open-source community standards and methods to all Catalyst Projects.
