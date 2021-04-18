@@ -10,7 +10,7 @@ QA-DAO has begun to pursue its quality assessment objectives with an assessment 
 
 Our contribution is **FeedbackChallenge : Open Source** (https://github.com/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal/issues/32) which is running during **Fund 5's Refine and Finalise stages**.
 
-## C Project Management: DAO-Peer-Facilitation
+## C Project Management: The DAO of Peer-Facilitation
 
 **DAO-Peer-Facilitation** (a Distributed Peer Facilitation repository) is currently being prepared which will address the reform of Project Management from top-down planning to distributed peer facilitation and empowerment models.
 
@@ -18,7 +18,7 @@ Our contribution is **FeedbackChallenge : Open Source** (https://github.com/Qual
 
 A QA assessment of how the Catalyst Funding Process can be reoriented from top-down planning to distributed peer facilitation and empowerment models is planned.
 
-## E Maturity-Models: DAO-Maturity-Model
+## E Maturity-Models: The DAO Maturity-Model
 
 **DAO-Maturity-Model**: A repository adapting Quality Assurance Maturity-Models to progress distributed autonomous organisation (DAO) to Institutional Audit Standards is currently being prepared.
 
