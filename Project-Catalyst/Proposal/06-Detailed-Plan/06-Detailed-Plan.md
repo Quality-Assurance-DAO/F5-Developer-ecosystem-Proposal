@@ -1,6 +1,6 @@
 ## A Open-Source - The DAO.
 
-The aim of the QA-DAO is to apply existing best practice open-source community standards and methods to all Catalyst Projects. 
+**DAO-OPen Source**. The aim of the QA-DAO is to apply existing best practice open-source community standards and methods to all Catalyst Projects. 
 
 The QA-DAO project has commenced with a GitHub organization, our members are open-source partners from the Catalyst community working with the repository maintainer to implement this proposal's open-source aims and our collaborators are the wider open-source community.
 
