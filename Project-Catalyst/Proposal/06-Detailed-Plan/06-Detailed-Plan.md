@@ -16,7 +16,7 @@ Our contribution is **FeedbackChallenge : Open Source** (https://github.com/Qual
 
 ## D Project Management: QA Assessment of Catalyst Funding Process.
 
-QA assessment of how the Catalyst Funding Process can be reoriented from top-down planning to distributed peer facilitation and empowerment models is planned.
+A QA assessment of how the Catalyst Funding Process can be reoriented from top-down planning to distributed peer facilitation and empowerment models is planned.
 
 ## E Maturity-Models: DAO-Maturity-Model
 
