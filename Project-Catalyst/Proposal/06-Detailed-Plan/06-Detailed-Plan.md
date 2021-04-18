@@ -12,7 +12,7 @@ Our contribution is **FeedbackChallenge : Open Source** (https://github.com/Qual
 
 ## C Project Management: DAO-Peer-Facilitation
 
-DAO-Peer-Facilitation (a Distributed Peer Facilitation repository) is currently being prepared which will address the reform of Project Management from top-down planning to distributed peer facilitation and empowerment models.
+**DAO-Peer-Facilitation** (a Distributed Peer Facilitation repository) is currently being prepared which will address the reform of Project Management from top-down planning to distributed peer facilitation and empowerment models.
 
 ## D Project Management: QA Assessment of Catalyst Funding Process.
 
@@ -20,11 +20,11 @@ QA assessment of how the Catalyst Funding Process can be reoriented from top-dow
 
 ## E Maturity-Models: DAO-Maturity-Model
 
-DAO-Maturity-Model: A repository adapting Quality Assurance Maturity-Models to progress distributed autonomous organisation (DAO) to Institutional Audit Standards is currently being prepared.
+**DAO-Maturity-Model**: A repository adapting Quality Assurance Maturity-Models to progress distributed autonomous organisation (DAO) to Institutional Audit Standards is currently being prepared.
 
 ## F Maturity-Models: QA Assessment of Catalyst Funding Process
 
-QA assessment of where the Catalyst Funding Process fits in the Blockchain Maturity Model and whether Catalyst can progress DAOs to Institutional Audit Standards is planned.
+A QA assessment of where the Catalyst Funding Process fits in the Blockchain Maturity Model and whether Catalyst can progress DAOs to Institutional Audit Standards is planned.
 
 **Estimated cost**: 2 ADA to mint an ADA Non-Fungible Token that records the support of Project Catalyst for QA-DAO. Set to $5 to cover currency value changes.
 
