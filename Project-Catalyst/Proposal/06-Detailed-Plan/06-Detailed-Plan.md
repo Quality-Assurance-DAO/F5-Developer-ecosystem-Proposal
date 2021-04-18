@@ -16,7 +16,7 @@ DAO-Peer-Facilitation (a Distributed Peer Facilitation repository) is currently 
 
 ## D Project Management: QA Assessment of Catalyst Funding Process.
 
-QA assessment of how the Catalyst Funding Process can be reorienting from top-down planning to distributed peer facilitation and empowerment models is planned.
+QA assessment of how the Catalyst Funding Process can be reoriented from top-down planning to distributed peer facilitation and empowerment models is planned.
 
 ## E Maturity-Models: DAO-Maturity-Model
 
