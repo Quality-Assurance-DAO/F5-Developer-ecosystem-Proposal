@@ -22,7 +22,7 @@ A QA assessment of where the Catalyst Funding Process fits in the Blockchain Mat
 --------------------------------------------------------------------------------------------------
 Transparency:
 
-All work on this proposal prior to the repository going public was captured in a Alpha Version 0.0 which can be downloaded as a zip file from ( https://github.com/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal/releases/tag/v0.0-alpha ) 
+All work on this proposal prior to the repository going public was captured in a Alpha Version 0.0 which can be downloaded as a zip file from ( https://github.com/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal/releases/tag/v0.0-alpha ) . An Alpha Release 1.0 will capture the state of this proposal when it reaches the end of the Finalize stage.
 
 --------------------------------------------------------------------------------------------------
 Estimated cost: 2 ADA to mint an ADA Non-Fungible Token that records the support of Project Catalyst for QA-DAO. Set to $5 to cover currency value changes.
