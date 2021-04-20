@@ -1,8 +1,9 @@
 # 02-Problem-Statement (140 char. limit)
 
-Trust in arbitrary authority blocks free inquiry.
+A lack of advocacy for open source
 
-Closed sources inhibit innovation.
+A need to reform Project Management techniques
 
-Duplication of standards wastes resources.
+A need to evolve to auditable levels.
+
 
