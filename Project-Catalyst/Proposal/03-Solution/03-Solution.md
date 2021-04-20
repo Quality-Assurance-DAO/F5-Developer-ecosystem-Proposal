@@ -1,6 +1,6 @@
 # 03-Solution (140 Characters)
 
-Distribute Trust & facilitate co-operation.
+Build Trust to facilitate co-operation.
 
 Apply open-source methods to Cardano.
 
