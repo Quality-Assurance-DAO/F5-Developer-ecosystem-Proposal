@@ -2,7 +2,7 @@
 
 Build Trust to facilitate co-operation.
 
-Apply open-source methods to Cardano.
+Advocate for open-source methods in Cardano.
 
 Adapt maturity standards to distributed organizations.
 
