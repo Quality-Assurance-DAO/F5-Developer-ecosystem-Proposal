@@ -2,7 +2,7 @@
 
 Build open-source standards & methods.
 
-Advocate for open-source methods in Cardano.
+Reform PM to distributed peer facilitation.
 
 Adapt maturity standards to distributed organizations.
 
