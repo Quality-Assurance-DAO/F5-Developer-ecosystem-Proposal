@@ -49,3 +49,27 @@ An Alpha Release 2.0 will capture the state of this proposal when it reaches the
 # Project Board : F5-Developer-ecosystem-Proposal
 https://github.com/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal/projects/2
 
+# Outputs: (Expected Launch Dates)
+
+## (1) Self-Assessment checklist - QA and Completion - Due : 28/04/2021 :
+This deliverable is specified by Project Catalyst.
+https://github.com/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal/issues/95
+
+## (2) QA of Ideascale Platform General Issues - Due : 26/05/2021 :
+This deliverable is a QA of General Usability Issues of the Ideascale Platform(Data Only) to inform Output (4).
+https://github.com/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal/issues/17
+
+## (3) Feedback Challenge : Open-Source Assessment Report - Due : 26/05/2021 :
+This deliverable will be an informal document aimed at informing, celebrating and inspiring the Catalyst open-source community.
+https://github.com/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal/blob/main/Project-Catalyst/Reports/01-Open-Source-Assessment-Report.md )
+
+## (4) Project Catalyst Proposal Process Report - Due : 26/05/2021 :
+This deliverable will be a formal document which will attempt a QA Assessment of the Fund 5 Process from a proposer's perspective.
+https://github.com/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal/blob/main/Project-Catalyst/Reports/02-Project-Catalyst-Proposal%20Process.md
+
+## (5) Governance : Due : TBA
+
+This deliverable will be a"leap of faith" interaction with voters to assess whether QA-DAO should be funded $5 given the delivery of 80% of outputs (1 -5).
+
+https://github.com/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal/blob/main/Project-Catalyst/Reports/03-Governance.md
+
