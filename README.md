@@ -66,3 +66,10 @@ https://github.com/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal/blob/ma
 This deliverable will be a"leap of faith" interaction with voters to assess whether QA-DAO should be funded $5 given the delivery of 80% of outputs (1 -5).
 https://github.com/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal/blob/main/Project-Catalyst/Reports/03-Governance.md
 
+## Estimated cost: 
+
+2 ADA to mint an ADA Non-Fungible Token that records the support of Project Catalyst for QA-DAO. Set to $5 to cover currency value changes.
+
+## Token Rewards:
+A high-level process outlining a means to reward community contributions has been drafted for NFT-DAO and released under a Creative Commons License https://github.com/Quality-Assurance-DAO/DAO-Open-Source/blob/main/Documents/Tokens/01-Keep-It-Simple.md
+
