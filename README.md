@@ -22,13 +22,13 @@
 
 **A2) Open Source - QA Assessment of Catalyst Proposal Process.** QA-DAO has begun with an experimental assessment of the various open-source perspectives within this Catalyst Fund 5 Process. This contribution is FeedbackChallenge : Open Source https://github.com/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal/issues/32 which will run during Fund 5's Refine and Finalise stages (to gather Issues on the Proposal Process itself) and then continue onto Fund 5's Review and Assess stages (to gather issues on the Review Process).
 
-**B) Project Management: The DAO of Peer-Facilitation - Fund 7**
+# B) Project Management: The DAO of Peer-Facilitation - Fund 7
 
 **B1) DAO-Peer-Facilitation (a Distributed Peer Facilitation repository)** is currently being prepared which will address the reform of Project Management from top-down planning to distributed peer facilitation and empowerment models. 
 
 **B2) Project Management: QA Assessment of Catalyst Funding Process.** A QA assessment of how the Catalyst Funding Process can be reoriented from top-down planning to distributed peer facilitation and empowerment models is planned.
 
-**C) Maturity-Models: The DAO Maturity-Model - Future Fund**
+# C) Maturity-Models: The DAO Maturity-Model - Future Fund
 
 **C1) DAO-Maturity-Model**: A repository adapting Quality Assurance Maturity-Models to distributed autonomous organisation (DAO) and which aims to progress DAOs to Institutional Audit Standards is currently being prepared. 
 
