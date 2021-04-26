@@ -1,6 +1,7 @@
 # 03-Solution (140 Characters)
 
-Build open-source standards & methods.
+
+Innovative approach to open source
 
 Reform PM to distributed peer facilitation.
 
