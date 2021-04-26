@@ -35,13 +35,16 @@ QA-DAO has begun with an experimental assessment of the various open-source pers
 
 **C2) Maturity-Models: QA Assessment of Catalyst Funding Process.** A QA assessment of where the Catalyst Funding Process fits in the Blockchain Maturity Model and whether Catalyst can progress DAOs to Institutional Audit Standards is planned.
 
-# Transparency:
+# Transparency: (Expected Launch Dates)
 
-All work on this proposal prior to the repository going public was captured in a Alpha Version 0.0 which can be downloaded as a zip file from ( https://github.com/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal/releases/tag/v0.0-alpha ) . An Alpha Release 1.0 will capture the state of this proposal when it reaches the end of the Finalize stage.
+## Alpha Version 0.0 - Released
+All work on this proposal prior to the repository going public was captured in a Alpha Version 0.0 which can be downloaded as a zip file from ( https://github.com/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal/releases/tag/v0.0-alpha )
 
-**Estimated cost:** 2 ADA to mint an ADA Non-Fungible Token that records the support of Project Catalyst for QA-DAO. Set to $5 to cover currency value changes. Token Rewards - A process outlining a means to reward community contributions has been drafted for NFT-DAO and released under a Creative Common License https://github.com/Quality-Assurance-DAO/DAO-Open-Source/blob/main/Documents/Tokens/Keep-It-Simple.md
+## Alpha Version 1.0 - 29/04/2021
+An Alpha Release 1.0 will capture the state of this proposal when it reaches the end of the Fund 5's Refine and Finalise stages. (Alpha Release 1.0 "Finalise Stage" - https://github.com/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal/issues/93))
 
-
+## Alpha Version 2.0 - 26/05/2021
+An Alpha Release 2.0 will capture the state of this proposal when it reaches the end of Fund 5's Review and Assess stages. (Alpha Release 2.0 "Review and Assess stages" - https://github.com/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal/issues/94))
 
 
 
