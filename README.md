@@ -9,8 +9,6 @@
 
 <a href="https://cardano.org/"><img src="https://github.com/NFT-DAO/Governance-HOLON/blob/main/Business-Plan/14-Our-Appendix/Graphics/cardano-logo-2.png" align="right" width="100">
 
-<a href="https://cardano.ideascale.com/a/index"><img src="https://github.com/NFT-DAO/Governance-HOLON/blob/main/Business-Plan/14-Our-Appendix/Graphics/ideascale.png" align="right" width="70">
-
 ## To participate :
 
 * Submit issues
