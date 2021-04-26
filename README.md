@@ -20,7 +20,8 @@
 
 **A1) DAO-Open Source.** The aim of the QA-DAO is to encourage collaboration and innovation across all open-source Catalyst Projects. The QA-DAO project started with a GitHub organization, the repository maintainer Stephen Whitenstall https://stephen-rowan.github.io/ hopes to work with open-source projects in the Catalyst community, to gain an understanding of their context and to extend their reach to collaborators in the wider open-source community. QA-DAO's approach is iterative, recording lessons learnt from the proposal process for the community and adopting improvements from constructive criticism where they apply to a broad base.
 
-**A2) Open Source - QA Assessment of Catalyst Proposal Process.** QA-DAO has begun with an experimental assessment of the various open-source perspectives within this Catalyst Fund 5 Process. This contribution is FeedbackChallenge : Open Source https://github.com/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal/issues/32 which will run during Fund 5's Refine and Finalise stages (to gather Issues on the Proposal Process itself) and then continue onto Fund 5's Review and Assess stages (to gather issues on the Review Process).
+**A2) Catalyst Open Source - QA Assessment of Catalyst Proposal Process.**
+QA-DAO has begun with an experimental assessment of the various open-source perspectives within this Catalyst Fund 5 Process. This contribution is FeedbackChallenge : Open Source https://github.com/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal/issues/32 which will run during Fund 5's Refine and Finalise stages (to gather Issues on the Proposal Process itself) and then continue onto Fund 5's Review and Assess stages (to gather issues on the Review Process).
 
 # B) Project Management: The DAO of Peer-Facilitation - Fund 7
 
