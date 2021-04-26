@@ -1,7 +1,7 @@
 [![GitHub open issues](https://img.shields.io/github/issues/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal?style=flat-square)](https://github.com/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal/issues)
 [![GitHub milestones](https://img.shields.io/github/milestones/open/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal?style=flat-square)](https://github.com/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal/milestones)
 [![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal?style=flat-square)](https://github.com/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal/issues?q=is%3Aissue+is%3Aclosed)
-
+### [Projects](https://github.com/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal/projects) 
 
 ## The aim of the QA-DAO is to encourage collaboration and innovation across all open-source Catalyst Projects.
 **Ideascale page** : https://cardano.ideascale.com/a/dtd/Quality-Assurance-DAO/351678-48088
@@ -11,10 +11,6 @@
 * Submit issues
 * Fork this repository
 * Submit Pull Requests
-
-### [Projects](https://github.com/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal/projects) 
-
-### [Milestones](https://github.com/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal/milestones) 
 
 ## A) The Open-Source DAO. Fund 5.
 
