@@ -3,7 +3,7 @@
 [![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal?style=flat-square)](https://github.com/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal/issues?q=is%3Aissue+is%3Aclosed)
 
 
-## Create a GitHub Organization as a focus for the distributed, autonomous organization (DAO) of Quality Assurance in Catalyst Projects.
+# Create a GitHub Organization as a focus for the distributed, autonomous organization (DAO) of Quality Assurance in Catalyst Projects.
 **Ideascale page** : https://cardano.ideascale.com/a/dtd/Quality-Assurance-DAO/351678-48088
 
 ## To participate :
