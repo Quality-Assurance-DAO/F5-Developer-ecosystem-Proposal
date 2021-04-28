@@ -1,3 +1,3 @@
 ## 01-Ideascale-Proposal-Finalise-Stage
 
-[Document Link will be here]
+[Word Document PDF Link will be here]
