@@ -45,26 +45,72 @@ An Alpha Release 2.0 will capture the state of this proposal when it reaches the
 https://github.com/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal/projects/2
 
 ## Outputs: (Expected Launch Dates)
+--------------------------------------------------------------------------------------------------
+### (1) Alpha Version 1.0 - Proposal Word Document Release - Due : Released
 
-### (1) Self-Assessment checklist - QA and Completion - Due : 28/04/2021 :
+The content of the proposal on Ideascale will be released as a Word Document in PDF format and attached to this page.
+Also linked at the following repository location : https://github.com/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal/blob/main/Project-Catalyst/Documents/01-Ideascale-Proposal-Finalise-Stage.md
+
+### (2) Self-Assessment checklist - QA and Completion - Due : Released
+
 This deliverable is specified by Project Catalyst.
 https://github.com/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal/issues/95
 
-### (2) QA of Ideascale Platform General Issues - Due : 26/05/2021 :
-This deliverable is a QA of General Usability Issues of the Ideascale Platform(Data Only) to inform Output (4).
+**Self-Assessment checklist Summary :** How my proposal impacts the challenge metrics is articulated in this manner ;
+
+**Did we manage to make it easier for developers to build on top of Cardano? : **
+
+I hope to highlight in Output (3) the Open-Source Assessment Report that an improved awareness of the wide range of the open-source Cardano community may enable developers to build from many different even contrary directions.
+
+**Number of repos on Github using the tooling. (Month over month increase) : **
+
+The tooling in this proposal, it's repo, is the proposal undone. It will offer to the community a deconstructed, dissected and resurrected F5-Developer-ecosystem-Proposal. Although not usable as a template, it is hoped it's bones may be picked over for many months to come as point of reference.
+
+**A sense of community and conversations. Having people around to talk with. : **
+
+This proposal has already been circulated around the Catalyst open-source community in the form of it's open-source assessment component, provoking mixed reactions and conversations.
+
+**How I address the challenge question : **
+
+I addressed the challenge question "How can we create a positive developer experience that helps the developer focus on building successful apps?" by focusing on one instance of a development lifecycle ; how to take something broken to the community to fix.
+
+**Definitions of Success :**
+
+**3 Months** - The Proposal is funded, it's contribution is recognized, which provided an incentive to continue to Fund 7.
+
+**6 Months** - The Proposal is used as a useful reference tool for other proposals.
+
+**12 Months** - The Proposal is now redundant and regarded as a historical anomaly.
+
+**Budget Requirements :** My Budget is broken into $5 for basic costs. The minting of an ADA Non-Fungible Token is pending negotiation for work in kind with NFT-DAO.
+
+**Identifying information about the proposer** : The repository maintainer Stephen Whitenstall https://stephen-rowan.github.io/
+
+**Defined Expected Launch Date(s) :** 11/04/2021 (Alpha Version 0.0 - Released) through 26/05/2021 (Release of Alpha Version 2.0) to Governance : Due : TBA (by Project Catalyst).
+
+### (3) QA of Ideascale Platform General Issues - Due : 26/05/2021 :
+This deliverable is a QA of General Usability Issues of the Ideascale Platform(Data Only) to inform Output (5).
 https://github.com/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal/issues/17
 
-### (3) Feedback Challenge : Open-Source Assessment Report - Due : 26/05/2021 :
+### (4) Feedback Challenge : Open-Source Assessment Report - Due : 26/05/2021 :
 This deliverable will be an informal document aimed at informing, celebrating and inspiring the Catalyst open-source community.
 https://github.com/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal/blob/main/Project-Catalyst/Reports/01-Open-Source-Assessment-Report.md )
 
-### (4) Project Catalyst Proposal Process Report - Due : 26/05/2021 :
+### (5) Project Catalyst Proposal Process Report - Due : 26/05/2021 :
 This deliverable will be a formal document which will attempt a QA Assessment of the Fund 5 Process from a proposer's perspective.
 https://github.com/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal/blob/main/Project-Catalyst/Reports/02-Project-Catalyst-Proposal%20Process.md
 
-### (5) Governance : Due : TBA
-This deliverable will be a "*leap of faith*" interaction with voters to assess whether QA-DAO should be funded $5 given the delivery of 80% of outputs (1 -5).
+### (6) Governance : Due : TBA
+This deliverable will be a"leap of faith" interaction with voters to assess whether QA-DAO should be funded $5 given the delivery of 80% of outputs (1 -5).
 https://github.com/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal/blob/main/Project-Catalyst/Reports/03-Governance.md
+
+## Estimated cost: 
+
+2 ADA to mint an ADA Non-Fungible Token that records the support of Project Catalyst for QA-DAO. Set to $5 to cover currency value changes.
+
+## Token Rewards
+
+A high-level process outlining a means to reward community contributions has been drafted for NFT-DAO and released under a Creative Commons License https://github.com/Quality-Assurance-DAO/DAO-Open-Source/blob/main/Documents/Tokens/01-Keep-It-Simple.md
 
 ## Estimated cost: 
 
