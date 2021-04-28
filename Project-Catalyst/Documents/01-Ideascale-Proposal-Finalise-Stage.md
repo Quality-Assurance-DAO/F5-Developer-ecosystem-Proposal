@@ -1,3 +1,3 @@
 ## 01-Ideascale-Proposal-Finalise-Stage
 
-[Word Document PDF Link will be here]
+[Catalyst-F5-Developer-ecosystem-proposal -Word Document PDF](/Catalyst-F5-Developer-ecosystem-proposal.pdf)
