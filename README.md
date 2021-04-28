@@ -58,23 +58,23 @@ https://github.com/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal/issues/
 
 **Self-Assessment checklist Summary :** How my proposal impacts the challenge metrics is articulated in this manner ;
 
-**Did we manage to make it easier for developers to build on top of Cardano? : **
+**Did we manage to make it easier for developers to build on top of Cardano?**
 
 I hope to highlight in Output (3) the Open-Source Assessment Report that an improved awareness of the wide range of the open-source Cardano community may enable developers to build from many different even contrary directions.
 
-**Number of repos on Github using the tooling. (Month over month increase) : **
+**Number of repos on Github using the tooling. (Month over month increase).**
 
 The tooling in this proposal, it's repo, is the proposal undone. It will offer to the community a deconstructed, dissected and resurrected F5-Developer-ecosystem-Proposal. Although not usable as a template, it is hoped it's bones may be picked over for many months to come as point of reference.
 
-**A sense of community and conversations. Having people around to talk with. : **
+**A sense of community and conversations. Having people around to talk with.**
 
 This proposal has already been circulated around the Catalyst open-source community in the form of it's open-source assessment component, provoking mixed reactions and conversations.
 
-**How I address the challenge question : **
+**How I address the challenge question.**
 
 I addressed the challenge question "How can we create a positive developer experience that helps the developer focus on building successful apps?" by focusing on one instance of a development lifecycle ; how to take something broken to the community to fix.
 
-**Definitions of Success :**
+**Definitions of Success.**
 
 **3 Months** - The Proposal is funded, it's contribution is recognized, which provided an incentive to continue to Fund 7.
 
@@ -82,11 +82,11 @@ I addressed the challenge question "How can we create a positive developer exper
 
 **12 Months** - The Proposal is now redundant and regarded as a historical anomaly.
 
-**Budget Requirements :** My Budget is broken into $5 for basic costs. The minting of an ADA Non-Fungible Token is pending negotiation for work in kind with NFT-DAO.
+**Budget Requirements.** My Budget is broken into $5 for basic costs. The minting of an ADA Non-Fungible Token is pending negotiation for work in kind with NFT-DAO.
 
 **Identifying information about the proposer** : The repository maintainer Stephen Whitenstall https://stephen-rowan.github.io/
 
-**Defined Expected Launch Date(s) :** 11/04/2021 (Alpha Version 0.0 - Released) through 26/05/2021 (Release of Alpha Version 2.0) to Governance : Due : TBA (by Project Catalyst).
+**Defined Expected Launch Date(s).** 11/04/2021 (Alpha Version 0.0 - Released) through 26/05/2021 (Release of Alpha Version 2.0) to Governance : Due : TBA (by Project Catalyst).
 
 ### (3) QA of Ideascale Platform General Issues - Due : 26/05/2021 :
 This deliverable is a QA of General Usability Issues of the Ideascale Platform(Data Only) to inform Output (5).
