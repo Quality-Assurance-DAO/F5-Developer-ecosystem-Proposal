@@ -2,6 +2,5 @@
 
 The Governance deliverable will be a "leap of faith" interaction with voters to assess whether QA-DAO should be funded $5 given the delivery of 80% of outputs (1 -5).
 
-The Governance of this proposal will transfer to the QA-DAO Open Source Repository (https://github.com/Quality-Assurance-DAO/DAO-Open-Source). 
 
-The QA-DAO Open Source Repository is active already, conducting a study of OccamFi's OCC token launch (Project Board : https://github.com/Quality-Assurance-DAO/DAO-Open-Source/projects/3) and will be supplemented with the output documents from this Fund 5 proposal.
+In Fund 5 of Project Catalyst QA-DAO submitted a proposal [Quality Assurance DAO](https://cardano.ideascale.com/a/dtd/Quality-Assurance-DAO/351678-48088)in the Developer Ecosystem Challenge that sought to encourage open-source collaboration & innovation and to do a QA Assessment of Catalyst Proposal Process itself. This proposal was successful in receiving votes and was funded in August 2021. Governance of the Quality Assurance DAO Fund 5 proposal may be followed in this repository.
