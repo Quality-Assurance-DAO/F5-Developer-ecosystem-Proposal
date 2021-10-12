@@ -1,3 +1,10 @@
+---
+title: QA-DAO Readme
+---
+
+[![hackmd-github-sync-badge](https://hackmd.io/fH0Q1022RBCzA_Q3A9m2XQ/badge)](https://hackmd.io/fH0Q1022RBCzA_Q3A9m2XQ)
+
+
 [![GitHub open issues](https://img.shields.io/github/issues/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal?style=flat-square)](https://github.com/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal/issues)
 [![GitHub milestones](https://img.shields.io/github/milestones/open/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal?style=flat-square)](https://github.com/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal/milestones)
 [![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal?style=flat-square)](https://github.com/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal/issues?q=is%3Aissue+is%3Aclosed)
