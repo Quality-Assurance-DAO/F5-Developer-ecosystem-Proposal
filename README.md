@@ -4,9 +4,16 @@ description: The Readme page for the F5-Developer-ecosystem-Proposal
 ---
 [![hackmd-github-sync-badge](https://hackmd.io/fH0Q1022RBCzA_Q3A9m2XQ/badge)](https://hackmd.io/fH0Q1022RBCzA_Q3A9m2XQ)
 
+# Quality Assurance DAO
+
 Welcome to the GitHub repository of the Fund 5 Developer-ecosystem-Proposal **Quality Assurance DAO**. 
 
 Below the issue shields is the full text of the proposal as it appears on the Ideascale platform.
+
+## To participate :
+* Submit issues
+* Fork this repository
+* Submit Pull Requests
 
 ### Open source documents 
 - [Code of Conduct](https://github.com/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal/blob/main/CODE-OF-CONDUCT.md)
@@ -25,12 +32,6 @@ Below the issue shields is the full text of the proposal as it appears on the Id
 <img src="/Binary/Proposal-Document-Cover.png" align="center" width="1000">
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Proposal Design</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/Quality-Assurance-DAO" property="cc:attributionName" rel="cc:attributionURL">Stephen Whitenstall</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
-
-## To participate :
-
-* Submit issues
-* Fork this repository
-* Submit Pull Requests
 
 ## A) The Open-Source DAO. Fund 5.
 
