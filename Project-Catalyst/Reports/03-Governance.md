@@ -1,7 +1,6 @@
 ---
-YAML metas
----
 title: 03-Governance
+---
 
 [![hackmd-github-sync-badge](https://hackmd.io/jPvWGFSdQvypPcBO8JgFrw/badge)](https://hackmd.io/jPvWGFSdQvypPcBO8JgFrw)
 
