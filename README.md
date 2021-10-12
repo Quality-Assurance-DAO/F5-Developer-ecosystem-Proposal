@@ -1,8 +1,11 @@
 ---
 title: QA-DAO Readme
+description: The Readme page for the F5-Developer-ecosystem-Proposal 
 ---
 
 [![hackmd-github-sync-badge](https://hackmd.io/fH0Q1022RBCzA_Q3A9m2XQ/badge)](https://hackmd.io/fH0Q1022RBCzA_Q3A9m2XQ)
+
+Welcome to the GitHub repository of the Fund 5 Developer-ecosystem-Proposal. Below the issue shields is the full text of the proposal as it appears on the Ideascale platform.
 
 
 [![GitHub open issues](https://img.shields.io/github/issues/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal?style=flat-square)](https://github.com/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal/issues)
